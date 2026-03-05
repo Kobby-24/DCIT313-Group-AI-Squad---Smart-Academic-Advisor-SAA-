@@ -1,13 +1,13 @@
-# [cite_start]DCIT313-Group AI Squad-Smart-Academic-Advisor-Expert-System [cite: 15, 46, 57]
+# DCIT313-Group AI Squad-Smart-Academic-Advisor-Expert-System 
 
 ## Project Objective
-[cite_start]The objective of this project is to design and implement a Knowledge-Based System (KBS) that functions as an Intelligent Agent[cite: 3]. [cite_start]This Smart Academic Advisor (SAA) is an AI-powered Expert System designed to assist students in making informed academic decisions, such as course planning and prerequisite management[cite: 57, 68]. [cite_start]The system demonstrates a clear mapping from perceptions (student data/career interests) to actions (course recommendations/alerts)[cite: 4, 104, 106].
+The objective of this project is to design and implement a Knowledge-Based System (KBS) that functions as an Intelligent Agent[cite: 3]. [cite_start]This Smart Academic Advisor (SAA) is an AI-powered Expert System designed to assist students in making informed academic decisions, such as course planning and prerequisite management. ]The system demonstrates a clear mapping from perceptions (student data/career interests) to actions (course recommendations/alerts).
 
 ---
 
 ## Group Members & Roles
 
-| Name | Student ID | [cite_start]Primary Project Role [cite: 121] |
+| Name | Student ID | Primary Project Role  |
 | :--- | :--- | :--- |
 | **Frederick Kwaku Kankam** | *[Insert ID]* | [cite_start]Project Manager [cite: 127] |
 | **Victor Barnieh** | 22134010 | [cite_start]Knowledge/Expert Engineer [cite: 133] |
